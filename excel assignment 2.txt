@@ -1,0 +1,51 @@
+                                                         EXCEL ASSIGNMENT 2
+
+
+1)In Excel, the dollar sign ($) is used to create a fixed reference to a cell or range of cells. This means that the reference doesn't change when you copy or fill a formula into other cells. Adding a dollar sign before the column and/or row reference creates an absolute reference. You can also use a mixed reference by adding a dollar sign before either the column or row reference, but not both. Using the dollar sign is helpful for ensuring accuracy and consistency in your calculations.
+
+
+2)When working with formulas in Excel, you might need to change a cell reference from relative to absolute (or mixed) to ensure that the reference always points to the same cell or range of cells, even if the formula is copied or filled. To do this, you can add a dollar sign ($) before the column and/or row reference in the cell reference. You can use the F4 key on your keyboard to toggle the reference between relative, absolute, and mixed, or you can manually add the dollar sign to the reference in the formula bar. Absolute references always point to the same cell or range of cells, while mixed references refer to a fixed column or row but allow the other part of the reference to change relative to the formula's position.
+
+
+3)In Excel, the order in which you perform mathematical operations in a formula is very important. If you perform the operations in the wrong order, you might get incorrect results. Excel follows an order of operations hierarchy that is similar to what you learned in math class: parentheses first, then exponents, then multiplication and division (performed left to right), and finally addition and subtraction (also performed left to right). This order is represented by the acronym PEMDAS.
+
+For example, if you have a formula that includes multiplication, addition, and subtraction, Excel will perform the multiplication first, then the addition, and finally the subtraction. However, if you want to perform an operation before another operation, you can use parentheses to group the operations together. Excel will perform the operations inside the parentheses first, and then move on to the next operation according to the order of operations.
+
+It's important to understand the order of operations in Excel so that you can create accurate formulas and get the results you want. Always remember to double-check your formulas to make sure they're doing what you intended them to do.
+
+
+4)the top 5 functions in Excel are:
+
+SUM: Adds up a range of cells.
+Syntax: =SUM(cell range)
+
+AVERAGE: Calculates the average of a range of cells.
+Syntax: =AVERAGE(cell range)
+
+VLOOKUP: Searches for a value in the first column of a table and returns a value in the same row from a specified column.
+Syntax: =VLOOKUP(lookup value, table range, column number, [range lookup])
+
+COUNT: Counts the number of cells in a range that contain numbers.
+Syntax: =COUNT(cell range)
+
+IF: Checks whether a condition is met, and returns one value if TRUE and another value if FALSE.
+Syntax: =IF(condition, value if true, value if false)
+
+
+
+5)SUBTOTAL function in Excel calculates a subtotal for a range of cells within a larger dataset. It is useful for performing calculations on specific subsets of data without affecting overall totals. Syntax: =SUBTOTAL(function_num, range1, [range2], ...). It excludes hidden or filtered out cells.
+
+
+
+6)the syntax of the VLOOKUP function:
+
+```
+=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+```
+
+- `lookup_value`: The value to search for in the first column of the table or range.
+- `table_array`: The table of data to search in.
+- `col_index_num`: The column number in the table from which to retrieve a value.
+- `range_lookup`: Optional. A logical value that specifies whether to find an exact match or an approximate match.
+
+The VLOOKUP function is a powerful tool that allows you to look up specific values in a table or range of data, making it much easier to manage and analyze large sets of information.
