@@ -1,0 +1,20 @@
+                                                                 EXCEL ASSIGNMENT 3
+
+
+
+1)AutoSum is a quick and easy way to calculate the sum of a column or row of data in Excel. To use it, select the cell below or to the right of the data you want to sum, click on the AutoSum button, and press Enter to calculate the sum. It's useful for checking calculations and saving time when working with large sets of data.
+
+
+2)The shortcut key to perform AutoSum in Excel is Alt + = (equals sign). This keyboard shortcut selects the cell below or to the right of the active cell, automatically inserts the SUM function, and highlights the range of cells to be summed. Pressing Enter then calculates the sum. It's a quick and convenient way to perform the AutoSum function, especially when working with large sets of data.
+
+
+3)If you have a formula in a cell that is not referencing the adjacent cells you want it to, you can adjust the cell references to include those cells. To do this, simply edit the formula by clicking on the cell with the formula and then clicking in the formula bar. Adjust the cell references so they include the adjacent cells by typing in the correct cell addresses or by clicking on the cells you want to include. Once you have made the adjustments, press Enter to save the formula. This should fix the issue and include the adjacent cells in the formula calculation.
+
+
+4)To select non-adjacent cells in Excel 2016, hold down the "Ctrl" key on your keyboard while clicking on each individual cell you want to select. The selected cells will be highlighted in blue. If you need to select entire rows or columns that are not adjacent, click on the row or column headers to select them. You can also use the "Shift" key to select a range of cells or rows/columns that are adjacent. Once you have selected the cells you need, you can perform various actions such as formatting, copying, or moving the data.
+
+
+5)If you choose a column in Excel, hold down the Alt key and press the letters "OCW" in quick succession, it will hide the selected column from view. This can be a useful tool when working with large data sets and you want to focus on specific columns or temporarily remove columns that are not needed. To unhide the column, simply select the columns on either side of the hidden column, hold down the Alt key, and press the letters "OCA" in quick succession. This will unhide the hidden column and restore it to its original position.
+
+
+6)If you right-click on a row reference number and click on Insert, a new row will be added above the selected row. The existing rows below the selected row will be shifted down by one row to make space for the new row. This is a useful feature in Excel as it allows you to insert new rows in the middle of a worksheet without having to manually move all the rows below it down.
