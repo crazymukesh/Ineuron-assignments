@@ -1,0 +1,25 @@
+                                                                 EXCEL ASSIGNMENT 4
+
+
+
+1)In Excel, the Insert and Delete commands can be found in the Home tab of the ribbon. They are usually grouped together in the Cells group, along with other cell-related commands such as Format and Sort & Filter. To use these commands, select the cells or rows/columns where you want to insert or delete, then click on the Insert or Delete button in the ribbon.
+
+2)If you set a row height or column width to 0 (zero), the row or column will become hidden in Excel. It means that the data in the row or column will no longer be visible, but the data itself will not be deleted. You can unhide the row or column by adjusting the row height or column width back to a non-zero value. To unhide a row or column, you can select the rows or columns on either side of the hidden row or column, right-click on the selection, and choose the "Unhide" option from the context menu.
+
+
+3)Yes, there is a need to change the height and width in a cell in Excel. The default cell height and width may not be suitable for the data entered in the cells. Changing the height and width of a cell allows you to adjust the size of the cell to better fit the data. This can make the data more readable and easier to work with, especially when working with large amounts of data. Additionally, adjusting the height and width of cells can also help with formatting and making your spreadsheet look more professional.
+
+4)The keyboard shortcut to unhide rows in Excel is "Ctrl + Shift + 9".
+
+
+5)To hide rows containing blank cells in Excel, you can use the filtering feature. First, select the data range that you want to filter. Then, click on the "Filter" button in the "Data" tab. Next, click on the arrow in the column that contains blank cells and uncheck the box next to "Blanks". This will filter out all the blank cells and hide the corresponding rows. Finally, you can click on the "Clear Filter" button to remove the filter and show all the rows again.
+
+
+6)To hide duplicate values using conditional formatting in Excel, follow these steps:
+
+• Select the range of cells that may contain duplicates
+• Go to the Home tab and click on Conditional Formatting
+• Select "Highlight Cells Rules" and then "Duplicate Values"
+• In the "Duplicate Values" dialog box, choose "Custom Format"
+• In the Format Cells dialog box, select the "Font" tab and change the font color to match the background color
+• Click OK to close all the dialog boxes, and the duplicate values will be hidden in the selected range.
