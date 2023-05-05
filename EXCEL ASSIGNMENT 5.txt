@@ -1,0 +1,31 @@
+                                                                 EXCEL ASSIGNMENT 5
+
+
+
+1)There are several types of conditions available in conditional formatting on Excel, including:
+- Highlight Cells Rules
+- Top/Bottom Rules
+- Data Bars
+- Color Scales
+- Icon Sets
+- Conditional Formatting with Formulas
+
+2)To insert a border in Excel with the Format Cells dialog, you can select the cell or range of cells where you want to apply the border, and then right-click and choose "Format Cells." In the Format Cells dialog box, select the "Border" tab and choose the desired border style, color, and thickness. You can also choose to apply the border to specific sides of the cell, such as top, bottom, left, or right. Once you have made your selections, click "OK" to apply the border to the selected cells.
+
+
+3)To format numbers as currency in Excel, select the cells you want to format, then click on the "Number Format" drop-down in the "Number" group on the "Home" tab. From the drop-down menu, select "Currency". You can also choose the specific currency symbol you want to use by clicking on the small arrow next to the "Currency" button and selecting the desired currency symbol. Once you have selected the currency format, Excel will apply it to the selected cells.
+
+
+4)steps to format numbers in Excel with the Percent style:
+
+• Select the cell(s) you want to format as a percentage.
+• Right-click and select Format Cells or go to the Home tab and click on the dialog box launcher in the Number group.
+• In the Format Cells dialog box, go to the Number tab.
+• Select the Percentage category from the list on the left-hand side.
+• Choose the desired number of decimal places.
+• Click OK to apply the formatting to the selected cell(s).
+
+
+5)The shortcut key to merge cells in Excel is Alt + H + M + M. This will bring up the Merge Cells option and merge the selected cells into a single cell. Alternatively, you can also click on the Merge & Center button in the Alignment group on the Home tab of the ribbon.
+
+6)To answer your question, using text commands in Excel allows you to manipulate and format text in cells. Some common text commands include CONCATENATE, LEFT, RIGHT, and MID. To use these commands, you can either type the formula directly into the formula bar or use the Function Wizard to select the desired command and input the necessary arguments. By using text commands, you can quickly and efficiently modify text without having to manually edit each cell.
